@@ -1,2 +1,2 @@
 # quantitative-risk-engine
-Monte Carlo Risk Engine simulates the future price of a stock portfolio 1,000 times to find the VaR
+Monte Carlo Risk Engine (simulating the future price of stock portfolio 1,000 times to calculate VaR
